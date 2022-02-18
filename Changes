@@ -1,17 +1,3 @@
-20210928.2  2021-10-05  Released-By: PERLANCAR; Urgency: medium
-
-	    - Rename module/dist
-	      TableData-{,Perl-}CPAN-Release-Static-2021.
-
-
-20210928.1  2021-09-28  Released-By: PERLANCAR
-
-            - No functional changes.
-
-            - [build] Rebuild after enabling TableData dzil and Pod::Weaver
-              plugin.
-
-
-20210928.0  2021-09-28  Released-By: PERLANCAR
+20220218.0  2022-02-18  Released-By: PERLANCAR
 
             - First release.
